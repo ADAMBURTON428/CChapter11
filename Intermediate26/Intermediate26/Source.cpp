@@ -14,7 +14,7 @@ int main()
 	//update prices
 	cout << "Enter increase percentage (for example, enter 15 for 15%): ";
 	cin >> increase;
-	for (double i = 0; i < increase; i++) {
+	for (double i = 0; i < increase; i = increase + i ) {
 
 		
 	
