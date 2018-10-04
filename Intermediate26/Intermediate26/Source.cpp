@@ -16,6 +16,8 @@ int main()
 	cin >> increase;
 	for (double i = 0; i < increase; i = increase + i ) {
 
+		cout << i << endl;
+
 		
 	
 	}//end for
